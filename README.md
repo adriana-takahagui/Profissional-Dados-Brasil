@@ -17,7 +17,9 @@ Se você é um profissional de dados ou está pensando em migrar de carreira ou 
 **Desenvolvimento**: Para o desenvolvimento do dashboard, utilizei os dados da pesquisa de 2021 e de 2019 para fins comparativos. 
 * Na "Página Inicial", podemos visualizar um resumo com as comparações salariais, nível de ensino e ferramentas mais presentes no dia a dia do profissional.
 
-![Screenshot](dashboard1.png | width=100)
+![Screenshot](dashboard1.png)
+
+<img src="dashboard1.png" width="100" height="100">
 
 * Em "Demografia e Carreira", trago os dados de 2021, e podemos analisar os perfis em relação ao nível
 
