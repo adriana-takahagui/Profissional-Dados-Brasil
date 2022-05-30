@@ -2,12 +2,13 @@
 
 ![Badge in progress](http://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=GREEN&style=for-the-badge)
 
-## **Introdução do problema**
+## **Introdução do Problema**
 
 Você conhece o perfil do Profissional de Dados do Brasil? 
+
 Se você é um profissional de dados ou está pensando em migrar de carreira ou está interessado em saber melhor como é este profissional, precisa conhecer as atualizações da última pesquisa realizada pelo Data Hackers. 
 
-**Problema** : Identificar e reportar em forma de dashboard as informações mais relevantes do profissional de dados no Brasil. 
+**Problema**: Identificar e reportar em forma de dashboard as informações mais relevantes do profissional de dados no Brasil. 
 
 **Dataset**: Dados foram extraídos do Kaggle do Data Hackers
 * Link para os dados da Pesquisa de 2021: 
@@ -16,13 +17,15 @@ Se você é um profissional de dados ou está pensando em migrar de carreira ou 
 **Desenvolvimento**: Para o desenvolvimento do dashboard, utilizei os dados da pesquisa de 2021 e de 2019 para fins comparativos. 
 * Na "Página Inicial", podemos visualizar um resumo com as comparações salariais, nível de ensino e ferramentas mais presentes no dia a dia do profissional.
 
-![GitHub Logo](dashboard1.png)
+![Screenshot](dashboard1.png)
 
 * Em "Demografia e Carreira", trago os dados de 2021, e podemos analisar os perfis em relação ao nível
 
+![Screenshot](dashboard2.png)
 
 * Em "Conhecimentos na Área de Dados", podemos extrair informações mais específicas dos perfis como por exemplo, ferramentas e linguagens mais utilizadas e atividades do dia a dia.
 
+![Screenshot](dashboard3.png)
 
 **Conclusão**: As principais conclusões que podemos extrair dessas informações:
 * Aumento salarial significativo independente do perfil.
