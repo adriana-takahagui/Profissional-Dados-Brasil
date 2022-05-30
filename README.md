@@ -11,8 +11,8 @@ Se você é um profissional de dados ou está pensando em migrar de carreira ou 
 **Problema**: Identificar e reportar em forma de dashboard as informações mais relevantes do profissional de dados no Brasil. 
 
 **Dataset**: Dados foram extraídos do Kaggle do Data Hackers
-* Link para os dados da Pesquisa de 2021: 
-* Link para os dados da Pesquisa de 2019: 
+* Link para os dados da Pesquisa de 2019: ( https://www.kaggle.com/datasets/datahackers/pesquisa-data-hackers-2019 )
+* Link para os dados da Pesquisa de 2021: (https://www.kaggle.com/datasets/datahackers/state-of-data-2021 ) 
 
 **Desenvolvimento**: Para o desenvolvimento do dashboard, utilizei os dados da pesquisa de 2021 e de 2019 para fins comparativos. 
 * Na "Página Inicial", podemos visualizar um resumo com as comparações salariais, nível de ensino e ferramentas mais presentes no dia a dia do profissional.
