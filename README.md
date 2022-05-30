@@ -21,9 +21,9 @@ Se você é um profissional de dados ou está pensando em migrar de carreira ou 
 
 * Em "Demografia e Carreira", trago os dados de 2021, e podemos analisar os perfis em relação ao nível
 
-![Screenshot](dashboard2.svg)
+![Screenshot](dashboard2.SVG)
 
-<img src="dashboard2.svg" width="1000">
+<img src="dashboard2.SVG" width="1000">
 
 * Em "Conhecimentos na Área de Dados", podemos extrair informações mais específicas dos perfis como por exemplo, ferramentas e linguagens mais utilizadas e atividades do dia a dia.
 
