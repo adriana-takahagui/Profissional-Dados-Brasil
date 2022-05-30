@@ -23,6 +23,8 @@ Se você é um profissional de dados ou está pensando em migrar de carreira ou 
 
 ![Screenshot](dashboard2.png)
 
+<img src="dashboard2.png" width="1000">
+
 * Em "Conhecimentos na Área de Dados", podemos extrair informações mais específicas dos perfis como por exemplo, ferramentas e linguagens mais utilizadas e atividades do dia a dia.
 
 ![Screenshot](dashboard3.png)
