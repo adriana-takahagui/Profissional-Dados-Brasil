@@ -31,7 +31,7 @@ Para o desenvolvimento do dashboard, utilizei os dados da pesquisa de 2021 e de 
 
 ## **Conclusão**
 
-As principais conclusões que podemos extrair dessas informações:
+Principais conclusões que podemos extrair dessas informações:
 * Aumento salarial significativo independente do perfil.
 * As linguagens mais utilizadas continuam sendo: Python e SQL.
 * A ferramenta de BI que continua em primeiro lugar é o Power BI.
