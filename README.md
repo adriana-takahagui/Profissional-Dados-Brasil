@@ -14,9 +14,9 @@ Se você é um profissional de dados ou está pensando em migrar de carreira ou 
 * Link para os dados da Pesquisa de 2019: 
 
 **Desenvolvimento**: Para o desenvolvimento do dashboard, utilizei os dados da pesquisa de 2021 e de 2019 para fins comparativos. 
-* Na página inicial, podemos visualizar um resumo com as comparações salariais, nível de ensino e ferramentas mais presentes no dia a dia do profissional.
+* Na "Página Inicial", podemos visualizar um resumo com as comparações salariais, nível de ensino e ferramentas mais presentes no dia a dia do profissional.
 
-
+![GitHub Logo](dashboard1.png)
 
 * Em "Demografia e Carreira", trago os dados de 2021, e podemos analisar os perfis em relação ao nível
 
@@ -35,4 +35,4 @@ Se você é um profissional de dados ou está pensando em migrar de carreira ou 
 * Cientista de Dados passa a maior parte do tempo coletando e limpando os dados para análise e criação de modelos, além disso realizam estudos para  resolver problemas de negócio 
 * Engenheiro de Dados passa a maior parte do tempo desenvolvendo pipeline de dados e criando consultas em SQL.
 
-Para acessar o dashboard, clique neste link: ( [powerbi_publiclink] )![image](https://user-images.githubusercontent.com/4824305/171037549-445c956c-9eb2-4d7c-88fd-274e7082bde9.png)
+Para acessar o dashboard, clique neste link: ( [powerbi_publiclink] )
