@@ -14,7 +14,9 @@ Se você é um profissional de dados ou está pensando em migrar de carreira ou 
 * Link dos dados da Pesquisa de 2019: https://www.kaggle.com/datasets/datahackers/pesquisa-data-hackers-2019
 * Link dos dados da Pesquisa de 2021: https://www.kaggle.com/datasets/datahackers/state-of-data-2021
 
-**Desenvolvimento**: Para o desenvolvimento do dashboard, utilizei os dados da pesquisa de 2021 e de 2019 para fins comparativos. 
+## **Desenvolvimento**
+
+Para o desenvolvimento do dashboard, utilizei os dados da pesquisa de 2021 e de 2019 para fins comparativos. 
 * Na "Página Inicial", podemos visualizar um resumo com as comparações das médias salariais, qual o nível de ensino da maioria dos profissionais que responderam à pesquisa e quais ferramentas estão mais presentes no dia a dia do profissional.
 
 ![Screenshot](dashboard1.png)
@@ -27,7 +29,9 @@ Se você é um profissional de dados ou está pensando em migrar de carreira ou 
 
 ![Screenshot](dashboard3.png)
 
-**Conclusão**: As principais conclusões que podemos extrair dessas informações:
+## **Conclusão**
+
+As principais conclusões que podemos extrair dessas informações:
 * Aumento salarial significativo independente do perfil.
 * As linguagens mais utilizadas continuam sendo: Python e SQL.
 * A ferramenta de BI que continua em primeiro lugar é o Power BI.
