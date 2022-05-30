@@ -1,7 +1,5 @@
 # Profissional de Dados do Brasil
 
-![Badge in progress](http://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=GREEN&style=for-the-badge)
-
 ## **Introdução do Problema**
 
 Você conhece o perfil do Profissional de Dados do Brasil? 
@@ -42,4 +40,4 @@ As principais conclusões que podemos extrair dessas informações:
 * Cientista de Dados passa a maior parte do tempo coletando e limpando os dados para análise e criação de modelos, além disso realizam estudos para resolver problemas de negócio 
 * Engenheiro de Dados passa a maior parte do tempo desenvolvendo pipeline de dados e criando consultas em SQL.
 
-Para acessar o dashboard, clique neste link: https://app.powerbi.com/view?r=eyJrIjoiMDZhZTM3MGItMzJmMi00MjM3LTlmZDMtN2ExOGJkZTc1ZTE3IiwidCI6IjgxMTFjMzgxLThjM2EtNDNkMS05ODc4LTA5ZjAzZGQ0N2Y1NiJ9
+**Para acessar o dashboard**, clique neste link: https://app.powerbi.com/view?r=eyJrIjoiMDZhZTM3MGItMzJmMi00MjM3LTlmZDMtN2ExOGJkZTc1ZTE3IiwidCI6IjgxMTFjMzgxLThjM2EtNDNkMS05ODc4LTA5ZjAzZGQ0N2Y1NiJ9
